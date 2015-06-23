@@ -11,7 +11,7 @@ These are the basic and most important git command you have to type in your term
 
     git clone *url of the repository*
     
-* if you have created, edited or removed some files in the repository, you have to **add** it:
+* if you have created, edited or removed some files in the repository, you have to **add** it::
 
     git add *name of the file/s*
     
@@ -29,7 +29,7 @@ in this way all your files will be put in the *staging area*
     
 .. note:: you can always use :code:`git status` in order to see your job and understand all the steps
 
-* you can also **pull** the changes (if some changes have been made) from the main repository and load them in your local one:
+* you can also **pull** the changes (if some changes have been made) from the main repository and load them in your local one::
 
     git pull
     
@@ -53,7 +53,7 @@ Other useful command are:
 
     git reset HEAD
     
-é you can have a look at the **log** and see the **differences** using:
+é you can have a look at the **log** and see the **differences** using::
 
     git log
     git diff
