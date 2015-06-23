@@ -53,7 +53,7 @@ Other useful command are:
 
     git reset HEAD
     
-é you can have a look at the **log** and see the **differences** using::
+you can have a look at the **log** and see the **differences** using::
 
     git log
     git diff
@@ -62,5 +62,7 @@ Other useful command are:
 These are other useful references you can find:
 
 `OverAPI <http://overapi.com/git/>`_
+
 `gitref <http://gitref.org/basic/#reset>`_
+
 `other referece <http://www.sbf5.com/~cduan/technical/git/git-1.shtml>`_
